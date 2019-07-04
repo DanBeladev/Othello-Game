@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05_OtheloUI", "Ex05_OtheloUI\Ex05_OtheloUI.csproj", "{1FF13F3B-C55D-4D62-A446-F03932DA6DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05_OtheloLogic", "Ex05_OtheloLogic\Ex05_OtheloLogic.csproj", "{3E0A9F6F-8D76-42BF-A0E9-37F49E3AE08C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A0B48EA9-7183-415D-BC47-67919B960C4D}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF13F3B-C55D-4D62-A446-F03932DA6DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF13F3B-C55D-4D62-A446-F03932DA6DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF13F3B-C55D-4D62-A446-F03932DA6DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF13F3B-C55D-4D62-A446-F03932DA6DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0A9F6F-8D76-42BF-A0E9-37F49E3AE08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0A9F6F-8D76-42BF-A0E9-37F49E3AE08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0A9F6F-8D76-42BF-A0E9-37F49E3AE08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0A9F6F-8D76-42BF-A0E9-37F49E3AE08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B331E636-34D4-4A68-9559-E740649B01D8}
+	EndGlobalSection
+EndGlobal
